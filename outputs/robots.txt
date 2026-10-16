@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khto19.github.io/rm-focus/sitemap.xml
