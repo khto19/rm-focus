@@ -1,0 +1,450 @@
+{
+  "season": "2026/27",
+  "updatedAt": "2026-10-16T19:13:51.725Z",
+  "dataSource": "Openfootball / football.json · starter snapshot",
+  "sourceUrl": "https://github.com/openfootball/football.json",
+  "license": "CC0 1.0",
+  "updateCadence": "Daily automated refresh; upstream timing may vary",
+  "matches": [
+    {
+      "id": "2026-08-22-matchday-2",
+      "date": "2026-08-22",
+      "time": "21:30",
+      "round": "Matchday 2",
+      "competition": "LaLiga",
+      "home": "RCD Espanyol de Barcelona",
+      "away": "Real Madrid CF",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "status": "finished"
+    },
+    {
+      "id": "2026-08-26-matchday-1",
+      "date": "2026-08-26",
+      "time": "21:00",
+      "round": "Matchday 1",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Real Sociedad de Fútbol",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "status": "finished"
+    },
+    {
+      "id": "2026-08-30-matchday-3",
+      "date": "2026-08-30",
+      "time": "17:00",
+      "round": "Matchday 3",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Málaga CF",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "status": "finished"
+    },
+    {
+      "id": "2026-09-04-matchday-4",
+      "date": "2026-09-04",
+      "time": "21:00",
+      "round": "Matchday 4",
+      "competition": "LaLiga",
+      "home": "Real Betis Balompié",
+      "away": "Real Madrid CF",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "status": "finished"
+    },
+    {
+      "id": "2026-09-12-matchday-5",
+      "date": "2026-09-12",
+      "time": "21:00",
+      "round": "Matchday 5",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Rayo Vallecano de Madrid",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "status": "finished"
+    },
+    {
+      "id": "2026-09-15-matchday-6",
+      "date": "2026-09-15",
+      "time": "21:30",
+      "round": "Matchday 6",
+      "competition": "LaLiga",
+      "home": "Elche CF",
+      "away": "Real Madrid CF",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "status": "finished"
+    },
+    {
+      "id": "2026-09-20-matchday-7",
+      "date": "2026-09-20",
+      "time": "16:15",
+      "round": "Matchday 7",
+      "competition": "LaLiga",
+      "home": "Club Atlético de Madrid",
+      "away": "Real Madrid CF",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "status": "finished"
+    },
+    {
+      "id": "2026-10-10-matchday-8",
+      "date": "2026-10-10",
+      "time": "21:00",
+      "round": "Matchday 8",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Villarreal CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2026-10-18-matchday-9",
+      "date": "2026-10-18",
+      "time": "21:00",
+      "round": "Matchday 9",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Sevilla FC",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2026-10-25-matchday-10",
+      "date": "2026-10-25",
+      "time": null,
+      "round": "Matchday 10",
+      "competition": "LaLiga",
+      "home": "FC Barcelona",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2026-11-01-matchday-11",
+      "date": "2026-11-01",
+      "time": null,
+      "round": "Matchday 11",
+      "competition": "LaLiga",
+      "home": "Real Racing Club de Santander",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2026-11-08-matchday-12",
+      "date": "2026-11-08",
+      "time": null,
+      "round": "Matchday 12",
+      "competition": "LaLiga",
+      "home": "Valencia CF",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2026-11-22-matchday-13",
+      "date": "2026-11-22",
+      "time": null,
+      "round": "Matchday 13",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "RC Celta de Vigo",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2026-11-29-matchday-14",
+      "date": "2026-11-29",
+      "time": null,
+      "round": "Matchday 14",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Deportivo Alavés",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2026-12-06-matchday-15",
+      "date": "2026-12-06",
+      "time": null,
+      "round": "Matchday 15",
+      "competition": "LaLiga",
+      "home": "Athletic Club",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2026-12-13-matchday-16",
+      "date": "2026-12-13",
+      "time": null,
+      "round": "Matchday 16",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "CA Osasuna",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2026-12-20-matchday-17",
+      "date": "2026-12-20",
+      "time": null,
+      "round": "Matchday 17",
+      "competition": "LaLiga",
+      "home": "RC Deportivo La Coruña",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-01-03-matchday-18",
+      "date": "2027-01-03",
+      "time": null,
+      "round": "Matchday 18",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Getafe CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-01-10-matchday-19",
+      "date": "2027-01-10",
+      "time": null,
+      "round": "Matchday 19",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Levante UD",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-01-17-matchday-20",
+      "date": "2027-01-17",
+      "time": null,
+      "round": "Matchday 20",
+      "competition": "LaLiga",
+      "home": "Málaga CF",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-01-24-matchday-21",
+      "date": "2027-01-24",
+      "time": null,
+      "round": "Matchday 21",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Real Betis Balompié",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-01-31-matchday-22",
+      "date": "2027-01-31",
+      "time": null,
+      "round": "Matchday 22",
+      "competition": "LaLiga",
+      "home": "Rayo Vallecano de Madrid",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-02-07-matchday-23",
+      "date": "2027-02-07",
+      "time": null,
+      "round": "Matchday 23",
+      "competition": "LaLiga",
+      "home": "Real Sociedad de Fútbol",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-02-14-matchday-24",
+      "date": "2027-02-14",
+      "time": null,
+      "round": "Matchday 24",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Athletic Club",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-02-21-matchday-25",
+      "date": "2027-02-21",
+      "time": null,
+      "round": "Matchday 25",
+      "competition": "LaLiga",
+      "home": "Sevilla FC",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-02-28-matchday-26",
+      "date": "2027-02-28",
+      "time": null,
+      "round": "Matchday 26",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Valencia CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-03-07-matchday-27",
+      "date": "2027-03-07",
+      "time": null,
+      "round": "Matchday 27",
+      "competition": "LaLiga",
+      "home": "Villarreal CF",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-03-14-matchday-28",
+      "date": "2027-03-14",
+      "time": null,
+      "round": "Matchday 28",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "RCD Espanyol de Barcelona",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-03-21-matchday-29",
+      "date": "2027-03-21",
+      "time": null,
+      "round": "Matchday 29",
+      "competition": "LaLiga",
+      "home": "RC Celta de Vigo",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-04-04-matchday-30",
+      "date": "2027-04-04",
+      "time": null,
+      "round": "Matchday 30",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Club Atlético de Madrid",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-04-11-matchday-31",
+      "date": "2027-04-11",
+      "time": null,
+      "round": "Matchday 31",
+      "competition": "LaLiga",
+      "home": "CA Osasuna",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-04-18-matchday-32",
+      "date": "2027-04-18",
+      "time": null,
+      "round": "Matchday 32",
+      "competition": "LaLiga",
+      "home": "Getafe CF",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-04-21-matchday-33",
+      "date": "2027-04-21",
+      "time": null,
+      "round": "Matchday 33",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Elche CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-05-02-matchday-34",
+      "date": "2027-05-02",
+      "time": null,
+      "round": "Matchday 34",
+      "competition": "LaLiga",
+      "home": "Levante UD",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-05-09-matchday-35",
+      "date": "2027-05-09",
+      "time": null,
+      "round": "Matchday 35",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "FC Barcelona",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-05-16-matchday-36",
+      "date": "2027-05-16",
+      "time": null,
+      "round": "Matchday 36",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "Real Racing Club de Santander",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-05-23-matchday-37",
+      "date": "2027-05-23",
+      "time": null,
+      "round": "Matchday 37",
+      "competition": "LaLiga",
+      "home": "Deportivo Alavés",
+      "away": "Real Madrid CF",
+      "score": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "2027-05-30-matchday-38",
+      "date": "2027-05-30",
+      "time": null,
+      "round": "Matchday 38",
+      "competition": "LaLiga",
+      "home": "Real Madrid CF",
+      "away": "RC Deportivo La Coruña",
+      "score": null,
+      "status": "scheduled"
+    }
+  ]
+}
+
